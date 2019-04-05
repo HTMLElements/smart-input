@@ -1,0 +1,27 @@
+{
+  "name": "smart-input",
+  "authors": [
+    "jQWidgets Ltd"
+  ],
+  "description": "Smart Input is a FREE Auto Complete Input Web Component(Custom Element). It extends the native Input with auto-suggest, auto-complete and typeahead functionality.",
+  "license": "Apache-2.0",
+  "keywords": [
+     "auto complete custom element",
+     "bootstrap typeahead",
+     "bootstrap auto complete",
+     "autocomplete web component",
+     "input web component",
+     "web component"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.0",
+    "smart-core": "HTMLElements/smart-core"
+  }
+}
